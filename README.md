@@ -24,9 +24,11 @@ Welcome to my GitHub profile!
 
 ## 🌐 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMentorUK&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMentorUK&layout=compact&theme=radical)
+
 
 ## 📊 GitHub Contribution Graph
 
 ![CodeMentorUK's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=CodeMentorUK&theme=xcode)
+
 
