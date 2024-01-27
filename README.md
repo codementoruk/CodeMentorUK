@@ -1,6 +1,15 @@
-- 👋 Hi, I’m @CodeMentorUK
+# Hi there 👋, I'm [Your Name]
 
-<!---
-CodeMentorUK/CodeMentorUK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile!
+
+## 📫 How to reach me:
+
+- Twitter: [@codementouk](https://twitter.com/codementouk)
+
+## 📈 My GitHub Stats
+
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeMentorUK&show_icons=true&theme=radical)
+
+## 🔢 Profile Views Counter
+
+![Profile views](https://gpvc.arturio.dev/CodeMentorUK
