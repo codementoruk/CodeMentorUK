@@ -12,4 +12,4 @@ Welcome to my GitHub profile!
 
 ## 🔢 Profile Views Counter
 
-![Profile views](https://gpvc.arturio.dev/CodeMentorUK
+![Profile views](https://gpvc.arturio.dev/CodeMentorUK)
