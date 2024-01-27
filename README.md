@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 
 ## 📈 My GitHub Stats
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeMentorUK&show_icons=true&theme=radical)
+![CodeMentorUK's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeMentorUK&show_icons=true&theme=radical)
 
 ## 🔢 Profile Views Counter
 
