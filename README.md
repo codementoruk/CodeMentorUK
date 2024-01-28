@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 
 ## 📫 How to reach me:
 
-- Twitter: [@codementouk](https://twitter.com/codementouk)
+- Twitter: [@codementouk](https://twitter.com/codementoruk)
 
 ## 📈 My GitHub Stats
 
