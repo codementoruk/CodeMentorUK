@@ -22,13 +22,6 @@ Welcome to my GitHub profile!
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
-## 🌐 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMentorUK&layout=compact&theme=radical)
-
-
-## 📊 GitHub Contribution Graph
-
-![CodeMentorUK's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=CodeMentorUK&theme=xcode)
 
 
