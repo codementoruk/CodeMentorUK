@@ -9,9 +9,6 @@ Welcome to my GitHub profile!
 
 - Twitter: [@codementoruk](https://twitter.com/codementoruk)
 
-- ![](https://komarev.com/ghpvc/?CodeMentorUK) 
-
-
 ## 💻 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
