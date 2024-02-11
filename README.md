@@ -9,9 +9,8 @@ Welcome to my GitHub profile!
 
 - Twitter: [@codementoruk](https://twitter.com/codementoruk)
 
-## 📈 My GitHub Stats
+- ![](https://komarev.com/ghpvc/?codementoruk) 
 
-![CodeMentorUK's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeMentorUK&show_icons=true&theme=radical)
 
 ## 💻 Tech Stack
 
