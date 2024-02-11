@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 
 - Twitter: [@codementoruk](https://twitter.com/codementoruk)
 
-- [](https://komarev.com/ghpvc/?codementoruk) 
+- ![](https://komarev.com/ghpvc/?CodeMentorUK) 
 
 
 ## 💻 Tech Stack
